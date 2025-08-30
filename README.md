@@ -1,0 +1,2 @@
+# nasuwarld
+りょうすけさぼるなbot
